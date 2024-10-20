@@ -1,0 +1,2 @@
+- read the note.ipynb file
+- this notes are based on classes from a youtube channel (techtrivandrum) 
